@@ -31,6 +31,7 @@ ethers = "2.0"
 ethers-solc = "2.0"
 reth-rpc-api = { git = "https://github.com/paradigmxyz/reth.git", rev = "fb710e5" }
 reth-rpc-types = { git = "https://github.com/paradigmxyz/reth.git", rev = "fb710e5" }
+reth-network-api = { git = "https://github.com/paradigmxyz/reth.git", rev = "fb710e5" }
 reth-rlp = { git = "https://github.com/paradigmxyz/reth.git", rev = "fb710e5" }
 reth-primitives = { git = "https://github.com/paradigmxyz/reth.git", rev = "fb710e5" }
 jsonrpsee = { version = "0.18.2", features = ["full"] }
